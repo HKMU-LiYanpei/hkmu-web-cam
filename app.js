@@ -1,7 +1,7 @@
 var frontCamera = false;
 var currentStream;
 
-// Define constants
+
 // Get the element in the document with id="camera-view", "camera-device", "photo-display", "take-photo-button" and "front-camera-button"
 const
     cameraView = document.querySelector("#camera-view"),
