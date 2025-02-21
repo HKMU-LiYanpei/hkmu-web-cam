@@ -62,8 +62,6 @@ frontCameraButton.onclick = function() {
     cameraStart();
 };
 
-// Start the camera and video streaming when the window loads
-// 1st parameter: Event type
-// 2nd parameter: Function to be called when the event occurs
+
 window.addEventListener("load", cameraStart);
 
